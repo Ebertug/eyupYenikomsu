@@ -76,7 +76,6 @@ const CONFIG = {
     linkedin: 'eyupyenikomsu',
     twitter: 'eyupbertu',
     instagram: 'eyupbertug',
-    phone: '+90 535 736 00 55',
     email: 'eyup.bertu@gmail.com',
   },
   resume: {
