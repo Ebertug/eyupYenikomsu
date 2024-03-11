@@ -105,16 +105,15 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Mustafa Gurbuz Necat Bayel Anadolu Lisesi',
+      from: '2016',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
+      institution: 'Hasan Kalyoncu University',
       degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      from: '2020',
+      to: '2025',
     },
   ],
   
