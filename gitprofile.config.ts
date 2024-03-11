@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://drive.google.com/file/d/14GfYyR9bam51rwVaKGMaa1T0cPD5BtEr/view?usp=drive_link',
+            'https://media.licdn.com/dms/image/D4D2DAQGje3m036QrpA/profile-treasury-image-shrink_1280_1280/0/1710080373727?e=1710784800&v=beta&t=qHps4nIVrCCyZkUBw-diqcWl3uX73IY0vGk3NzqiF08',
           link: 'https://drive.google.com/drive/folders/1xo6rVIvTM_rYHamDWkefZCEKXg8To6M2?usp=drive_link',
         },
       ],
