@@ -378,8 +378,6 @@ interface Config {
    * Certifications list
    */
   certifications?: Array<Certification>;
-  licenses?: Array<License>;
-
   /**
    * Education list
    */
