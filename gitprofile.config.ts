@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ebertug/OOP_Python','ebertug/leetCode','ebertug/python101','ebertug/eyupYenikomsu'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['ebertug/eyupYenikomsu','ebertug/eyupYenikomsu','ebertug/eyupYenikomsu','ebertug/eyupYenikomsu'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
