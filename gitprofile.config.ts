@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ebertug/OOP_Python','ebertug/leetCode','ebertug/python101','ebertug/kindaMario'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['ebertug/OOP_Python','ebertug/leetCode','ebertug/python101','ebertug/eyupYenikomsu'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -42,6 +42,22 @@ const CONFIG = {
         },
         {
           title: "'Ice' Remotly Operated Vehicle",
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://media.licdn.com/dms/image/D4D2DAQGje3m036QrpA/profile-treasury-image-shrink_1280_1280/0/1710080373727?e=1710784800&v=beta&t=qHps4nIVrCCyZkUBw-diqcWl3uX73IY0vGk3NzqiF08',
+          link: 'https://drive.google.com/drive/folders/1xo6rVIvTM_rYHamDWkefZCEKXg8To6M2?usp=drive_link',
+        },
+        {
+          title: "'Kayra' Remotyl Operated Vehicle",
+          description:
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+          imageUrl:
+            'https://media.licdn.com/dms/image/D4D2DAQERSh3FvGP7_A/profile-treasury-image-shrink_800_800/0/1701975799350?e=1710781200&v=beta&t=gDKuQhROesdHISE8AIKMi87eHCqGDi3SBq3KepHsrpA',
+          link: 'https://drive.google.com/drive/folders/1N_AgGX1PaQ9ILdg9lWVB_lqIYKEagD-z?usp=drive_link',
+        },
+        {
+          title: "'Teknogaraj' Remotly Operated Vehicle",
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
