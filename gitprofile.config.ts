@@ -86,20 +86,21 @@ const CONFIG = {
       from: 'Aug - 2023',
       to: 'Oct - 2023',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'GameDev.tv - C# Unity Game Developer 2D',
+      body: 'Complete C# Unity Game Developer 2D Certificate',
+      year: 'Dec 2023',
+      link: 'https://www.linkedin.com/in/eyupyenikomsu/details/certifications/1635553092848/single-media-viewer/?profileId=ACoAADWtyGMBt9XKp6U7PGCzBDAGh5BVdIt03ZY',
+    },
+  ],
+   licenses: [
+    {
+      name: 'GameDev.tv - C# Unity Game Developer 2D',
+      body: 'Complete C# Unity Game Developer 2D Certificate',
+      year: 'Dec 2023',
+      link: 'https://www.linkedin.com/in/eyupyenikomsu/details/certifications/1635553092848/single-media-viewer/?profileId=ACoAADWtyGMBt9XKp6U7PGCzBDAGh5BVdIt03ZY',
     },
   ],
   educations: [
