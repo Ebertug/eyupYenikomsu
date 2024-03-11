@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://github.com/Ebertug/eyupYenikomsu/blob/main/kayra.jpg',
+            'https://media.licdn.com/dms/image/D4D2DAQFGU6Tvl2TmUQ/profile-treasury-image-shrink_1920_1920/0/1710189093747?e=1710795600&v=beta&t=6XFPuO_pXbz5lz-hPOu1uKSYzhYhcQQYnvCeUODmpdc',
           link: 'https://drive.google.com/file/d/1r6_v34qUhXcTEGBdMDUwPv7ionIQjA6P/view?usp=sharing',
         },
         {
@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://github.com/Ebertug/eyupYenikomsu/blob/main/teknogaraj.jpg',
+            'https://media.licdn.com/dms/image/D4D2DAQGfURfHO9y66g/profile-treasury-image-shrink_800_800/0/1710189086572?e=1710795600&v=beta&t=x-_pq-6sHr5tLVq4W28E2OHMkVACrbnJHGLON-ymCyk',
           link: 'https://drive.google.com/drive/folders/1duBXRpxqGYHDsFJMRsw6OH02ADzG4iyT?usp=sharing',
         },
       ],
