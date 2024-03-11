@@ -110,10 +110,10 @@ const CONFIG = {
       link: 'https://www.linkedin.com/in/eyupyenikomsu/details/certifications/1635553092848/single-media-viewer/?profileId=ACoAADWtyGMBt9XKp6U7PGCzBDAGh5BVdIt03ZY',
     },
         {
-      name: 'GameDev.tv - C# Unity Game Developer 2D',
-      body: 'Complete C# Unity Game Developer 2D Certificate',
-      year: 'Dec 2023',
-      link: 'https://www.linkedin.com/in/eyupyenikomsu/details/certifications/1635553092848/single-media-viewer/?profileId=ACoAADWtyGMBt9XKp6U7PGCzBDAGh5BVdIt03ZY',
+      name: 'TEKNOFEST Unmanned Underwater Systems Category Certificate',
+      body: '2021 TEKNOFEST Unmanned Underwater Systems Category Finalist Certificate',
+      year: 'Jan 2021',
+      link: 'https://www.linkedin.com/in/eyupyenikomsu/details/certifications/1635553096572/single-media-viewer/?profileId=ACoAADWtyGMBt9XKp6U7PGCzBDAGh5BVdIt03ZY',
     },
   ],
   educations: [
