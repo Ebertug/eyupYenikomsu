@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: "'Siyah-Inci' Remotyl Operated Vehicle",
+          title: "'Siyah-Inci' Remotely Operated Vehicle",
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://drive.google.com/drive/folders/1N_AgGX1PaQ9ILdg9lWVB_lqIYKEagD-z?usp=drive_link',
         },
         {
-          title: "'Ice' Remotly Operated Vehicle",
+          title: "'Ice' Remotely Operated Vehicle",
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -49,7 +49,7 @@ const CONFIG = {
           link: 'https://drive.google.com/drive/folders/1xo6rVIvTM_rYHamDWkefZCEKXg8To6M2?usp=drive_link',
         },
         {
-          title: "'Kayra' Remotyl Operated Vehicle",
+          title: "'Kayra' Remotely Operated Vehicle",
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -57,7 +57,7 @@ const CONFIG = {
           link: 'https://github.com/Ebertug/eyupYenikomsu/blob/main/kayra.jpg',
         },
         {
-          title: "'Teknogaraj' Remotly Operated Vehicle",
+          title: "'Teknogaraj' Remotely Operated Vehicle",
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
