@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ebertug/Teknogaraj-ROV24','ebertug/leetCode','ebertug/python101','ebertug/kindaMario'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['ebertug/OOP_Python','ebertug/leetCode','ebertug/python101','ebertug/kindaMario'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
