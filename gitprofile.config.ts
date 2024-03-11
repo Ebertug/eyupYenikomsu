@@ -53,8 +53,13 @@ const CONFIG = {
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
+<<<<<<< HEAD
             'https://media.licdn.com/dms/image/D4D2DAQERSh3FvGP7_A/profile-treasury-image-shrink_800_800/0/1701975799350?e=1710781200&v=beta&t=gDKuQhROesdHISE8AIKMi87eHCqGDi3SBq3KepHsrpA',
           link: 'eyupyenikomsu/kayra.jpg',
+=======
+            'kayra.jpg',
+          link: 'https://drive.google.com/drive/folders/1SUVg5yrmSJVpNGbA72QbVL7k4JRMHgqQ?usp=sharing',
+>>>>>>> 0d0d414239c679e7f7e794aedf4387fadb1aee50
         },
         {
           title: "'Teknogaraj' Remotly Operated Vehicle",
