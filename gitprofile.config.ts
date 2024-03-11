@@ -111,7 +111,7 @@ const CONFIG = {
     },
     {
       institution: 'Hasan Kalyoncu University',
-      degree: 'Degree',
+      degree: 'Bachelor',
       from: '2020',
       to: '2025',
     },
