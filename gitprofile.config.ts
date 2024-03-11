@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: "'Siyah-Inci' Remotyl Operated Vehicle",
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/1l2JZCai3gTLvR_41ZzKFq747C7PkoVw6/view?usp=sharing',
+          link: 'https://drive.google.com/drive/folders/1N_AgGX1PaQ9ILdg9lWVB_lqIYKEagD-z?usp=drive_link',
         },
         {
-          title: 'Project Name',
+          title: "'Ice' Remotly Operated Vehicle",
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://drive.google.com/file/d/14GfYyR9bam51rwVaKGMaa1T0cPD5BtEr/view?usp=drive_link',
+          link: 'https://drive.google.com/drive/folders/1xo6rVIvTM_rYHamDWkefZCEKXg8To6M2?usp=drive_link',
         },
       ],
     },
@@ -147,8 +147,8 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
       'dark',
+      'light',
       'cupcake',
       'bumblebee',
       'emerald',
