@@ -107,7 +107,7 @@ const GitProfile = ({ config }: { config: Config }) => {
       const data = response.data;
 
       setProfile({
-        avatar: data.avatar_url,
+        avatar: "https://media.licdn.com/dms/image/D4D03AQEeZrvGxhaUbA/profile-displayphoto-shrink_800_800/0/1673547592988?e=1715817600&v=beta&t=jqRVeLSz31os9y7hbmKBi6PrzmSohhRnYFCngTxG4E0",
         name: data.name || ' ',
         bio: data.bio || '',
         location: data.location || '',
